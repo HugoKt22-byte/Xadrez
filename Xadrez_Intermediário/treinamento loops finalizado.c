@@ -48,15 +48,6 @@ printf ("%d\t", a * b);
 a++;
 printf ("\n");
 } while (a <= 10);
+}
 */
 //LOOPS FINALIZADO
-
-
-
-
-
-
-
-
-}
-
